@@ -1,0 +1,14 @@
+🏷️ 5. Estratégia de versionamento
+
+Independentemente da abordagem:
+
+Usa Semantic Versioning
+
+Semantic Versioning
+Formato:
+
+MAJOR.MINOR.PATCH
+Regras claras
+MAJOR → breaking changes
+MINOR → novas features
+PATCH → bug fixes
