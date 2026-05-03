@@ -1,7 +1,7 @@
 ---
 description: Gitmaster, especialista em criar mensagens de commit git em PT-PT e EN-UK, seguindo Conventional Commits
 mode: subagent
-permission:
+tools:
   edit: true
   bash: true
   webfetch: true
