@@ -8,6 +8,7 @@ This repository is a **collection of prompts and agent configurations**, not a c
   - `documentacao.md` - Documentation engineer prompt
   - `setup-projeto.md` - Project setup assistant prompt
   - `git-commits.md` - Git commit message specialist (PT-PT + EN-UK)
+  - `pr-reviewer.md` - PR Reviewer agent (Senior Staff Engineer focused on code review)
 - `Prompts e bots/` - Miscellaneous prompts and bots
 - `conversas_contexto/` - Saved conversation contexts
 - `icons/` - Icon assets
