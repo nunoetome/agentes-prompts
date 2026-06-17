@@ -1,6 +1,6 @@
 ---
 description: Analista de licenciamento de software com análise em cascata de dependências
-mode: primary
+mode: subagent
 tools:
   edit: true
   bash: true
