@@ -9,6 +9,7 @@ This repository is a **collection of prompts and agent configurations**, not a c
   - `setup-projeto.md` - Project setup assistant prompt
   - `git-commits.md` - Git commit message specialist (PT-PT + EN-UK)
   - `pr-reviewer.md` - PR Reviewer agent (Senior Staff Engineer focused on code review)
+  - `seguranca-privacidade.md` - Security & Privacy Auditor (análise exaustiva de segurança e privacidade ficheiro a ficheiro)
 - `Prompts e bots/` - Miscellaneous prompts and bots
 - `conversas_contexto/` - Saved conversation contexts
 - `icons/` - Icon assets
